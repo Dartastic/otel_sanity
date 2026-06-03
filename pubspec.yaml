@@ -1,6 +1,6 @@
 name: otel_sanity
 description: Dartastic OpenTelemetry bridge for Sanity (GROQ queries, datasets, drafts, mutations, listen, assets).
-version: 0.1.0-beta.1-wip
+version: 0.1.0-beta.1
 repository: https://github.com/dartastic/otel_sanity
 homepage: https://dartastic.io
 publish_to: https://pub.dartastic.io
